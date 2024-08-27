@@ -1,0 +1,28 @@
+FILE1.txt
+score: 7.887323943661972
+most used words : ['and', 'to', 'the', 'ai', 'of']
+random words from submisson are: ['the', 'in', 'learning', 'pollution', 'data']
+FILE2.txt
+score: 8.098831168831168
+most used words : ['and', 'to', 'ai', 'the', 'in']
+random words from submisson are: ['improved', 'respond', 'human', 'algorithms', 'improved']
+FILE3.txt
+score: 8.109433962264152
+most used words : ['to', 'and', 'ai', 'the', 'of']
+random words from submisson are: ['industries', 'potential', 'activity', 'ai', 'ai']
+FILE4.txt
+score: 8.421052631578947
+most used words : ['and', 'to', 'ai', 'is', 'the']
+random words from submisson are: ['therefore', 'intelligence', 'develop', 'institutions', 'is']
+FILE5.txt
+score: 15.0
+most used words : ['hello']
+random words from submisson are: ['hello', 'hello', 'hello', 'hello', 'hello']
+FILE6.txt
+score: 0
+most used words : Nil
+random words from submisson are: Nil
+FILE7.txt
+score: 9.248062015503876
+most used words : ['and', 'the', 'to', 'of', 'patient']
+random words from submisson are: ['implies', 'that', 'its', 'assignments', 'implies']

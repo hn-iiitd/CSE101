@@ -1,0 +1,135 @@
+TA, Crossing, Gate number, Time 
+Sahil Goyal, EXIT, 5, 21:12:21
+Shashank Dargar, ENTER, 3, 21:12:24
+Dhruv Mishra, ENTER, 5, 21:12:27
+Smiti Singhal, ENTER, 3, 21:12:31
+Manav Saini, EXIT, 3, 21:12:36
+Khushdev Pandit, EXIT, 3, 21:12:41
+Snehal, EXIT, 1, 21:12:47
+Bharat Goyal, EXIT, 5, 21:12:51
+Surbhi Goyal, ENTER, 5, 21:13:41
+Khushdev Pandit, ENTER, 1, 21:13:50
+Khushdev Pandit, EXIT, 1, 21:14:07
+Khushdev Pandit, ENTER, 1, 21:14:11
+Gayam Shivakanth Reddy, EXIT, 1, 21:14:11
+Kartik Gupta, EXIT, 5, 21:14:12
+Gayam Shivakanth Reddy, ENTER, 3, 21:14:31
+Khushdev Pandit, EXIT, 3, 21:14:43
+Khushdev Pandit, ENTER, 5, 21:14:46
+Thanmayee Matha, EXIT, 1, 21:14:47
+Rishabh Oberoi, EXIT, 5, 21:15:07
+Dhruv Mishra, EXIT, 3, 21:15:09
+Rishika Jain, ENTER, 5, 21:15:12
+Manas, EXIT, 1, 21:15:26
+Aditya Raj Singh, ENTER, 3, 21:15:29
+Rohan Dhar, EXIT, 5, 21:15:30
+Mohammed Kaif, EXIT, 3, 21:15:32
+Sahil Goyal, ENTER, 1, 21:15:37
+Bhavya Jain, EXIT, 5, 21:15:37
+Swati Jha, ENTER, 3, 21:15:48
+Khushdev Pandit, EXIT, 1, 21:15:54
+Shambhavi Sharma, ENTER, 5, 21:15:59
+Thakkar Divyakumar Rameshbhai, ENTER, 5, 21:16:22
+Khushdev Pandit, ENTER, 1, 21:16:24
+Khushdev Pandit, EXIT, 1, 21:16:43
+Gayam Shivakanth Reddy, EXIT, 1, 21:16:45
+Sumit Kumar, ENTER, 1, 21:17:03
+Dhruv Mishra, ENTER, 1, 21:17:09
+Khushdev Pandit, ENTER, 1, 21:17:11
+Bharat Goyal, ENTER, 5, 21:17:11
+Mohammed Kaif, ENTER, 3, 21:17:21
+Kartik Gupta, ENTER, 3, 21:17:26
+Khushdev Pandit, EXIT, 1, 21:17:29
+Manav Saini, ENTER, 1, 21:17:30
+Khushdev Pandit, ENTER, 3, 21:17:46
+Khushdev Pandit, EXIT, 1, 21:17:46
+Surbhi Goyal, EXIT, 1, 21:17:49
+Manav Saini, EXIT, 3, 21:17:58
+Khushdev Pandit, ENTER, 5, 21:18:02
+Sumit Kumar, EXIT, 3, 21:18:03
+Ankita Mahato, EXIT, 3, 21:18:08
+Swatantra kumar nigam, EXIT, 3, 21:18:24
+Khushdev Pandit, EXIT, 5, 21:18:35
+Ayush Srivastava, ENTER, 1, 21:18:59
+Khushdev Pandit, ENTER, 3, 21:19:14
+Swatantra kumar nigam, ENTER, 1, 21:19:17
+Rishabh Oberoi, ENTER, 5, 21:19:40
+Sumit Kumar, ENTER, 3, 21:19:59
+Param Shah, EXIT, 3, 21:20:07
+Khushdev Pandit, EXIT, 1, 21:20:14
+Ankita Mahato, ENTER, 5, 21:20:19
+Khushdev Pandit, ENTER, 1, 21:20:34
+Khushdev Pandit, EXIT, 5, 21:20:43
+Khushdev Pandit, ENTER, 1, 21:20:46
+Sumit Kumar, EXIT, 5, 21:20:47
+Snehal, ENTER, 3, 21:21:00
+Yuvraj Singh, ENTER, 3, 21:21:20
+Rishika Jain, EXIT, 1, 21:21:23
+Gayam Shivakanth Reddy, ENTER, 5, 21:21:25
+Khushdev Pandit, EXIT, 3, 21:21:35
+Snehal, EXIT, 5, 21:21:38
+Khushdev Pandit, ENTER, 1, 21:21:40
+Swaib Ilias Mazumder, EXIT, 3, 21:21:47
+Ayush Srivastava, EXIT, 5, 21:21:48
+Khushdev Pandit, EXIT, 3, 21:21:59
+Shambhavi Sharma, EXIT, 5, 21:22:00
+Bhavya Jain, ENTER, 1, 21:22:03
+Khushdev Pandit, ENTER, 5, 21:22:04
+Bharat Goyal, EXIT, 3, 21:22:06
+Khushdev Pandit, EXIT, 5, 21:22:37
+Rohan Dhar, ENTER, 5, 21:22:52
+Khushdev Pandit, ENTER, 3, 21:22:57
+Khushdev Pandit, EXIT, 3, 21:22:57
+Kartik Gupta, EXIT, 5, 21:23:00
+Param Shah, ENTER, 3, 21:23:14
+Khushdev Pandit, ENTER, 5, 21:23:15
+Khushdev Pandit, EXIT, 5, 21:23:16
+Khushdev Pandit, ENTER, 3, 21:23:30
+Karan Baboota, ENTER, 3, 21:23:34
+Khushdev Pandit, EXIT, 5, 21:23:47
+Khushdev Pandit, ENTER, 5, 21:23:51
+Khushdev Pandit, EXIT, 3, 21:24:18
+Khushdev Pandit, ENTER, 5, 21:24:20
+Shraman Jain, ENTER, 3, 21:24:22
+Khushdev Pandit, EXIT, 3, 21:24:26
+Khushdev Pandit, ENTER, 5, 21:24:47
+Ayush Srivastava, ENTER, 3, 21:24:52
+Khushdev Pandit, EXIT, 3, 21:25:16
+Param Shah, EXIT, 1, 21:25:27
+Khushdev Pandit, ENTER, 3, 21:25:32
+Snehal, ENTER, 5, 21:25:43
+Khushdev Pandit, EXIT, 1, 21:25:45
+Dhruv Mishra, EXIT, 1, 21:25:47
+Ankita Mahato, EXIT, 5, 21:25:49
+Shraman Jain, EXIT, 3, 21:25:54
+Thakkar Divyakumar Rameshbhai, EXIT, 1, 21:25:55
+Thanmayee Matha, ENTER, 1, 21:26:10
+Sahil Goyal, EXIT, 3, 21:26:14
+Khushdev Pandit, ENTER, 3, 21:26:18
+Ayush Srivastava, EXIT, 1, 21:26:23
+Khushdev Pandit, EXIT, 3, 21:26:27
+Kartik Gupta, ENTER, 3, 21:26:29
+Manav Saini, ENTER, 1, 21:26:34
+Karan Baboota, EXIT, 1, 21:26:42
+Swaib Ilias Mazumder, ENTER, 1, 21:26:51
+Khushdev Pandit, ENTER, 1, 21:26:56
+Swaib Ilias Mazumder, EXIT, 3, 21:26:57
+Manav Saini, EXIT, 3, 21:27:06
+Param Shah, ENTER, 1, 21:27:21
+Khushdev Pandit, EXIT, 1, 21:27:24
+Yuvraj Singh, EXIT, 5, 21:27:43
+Khushdev Pandit, ENTER, 3, 21:27:44
+Khushdev Pandit, EXIT, 5, 21:27:48
+Manas, ENTER, 3, 21:27:51
+Khushdev Pandit, ENTER, 1, 21:27:59
+Khushdev Pandit, EXIT, 5, 21:28:05
+Rishika Jain, ENTER, 1, 21:28:06
+Khushdev Pandit, ENTER, 5, 21:28:10
+Khushdev Pandit, EXIT, 3, 21:28:15
+Khushdev Pandit, ENTER, 5, 21:28:43
+Sumit Kumar, ENTER, 5, 21:28:43
+Manas, EXIT, 5, 21:28:49
+Manas, ENTER, 1, 21:28:59
+Yuvraj Singh, ENTER, 3, 21:29:30
+Khushdev Pandit, EXIT, 3, 21:29:45
+Thanmayee Matha, EXIT, 5, 21:30:06

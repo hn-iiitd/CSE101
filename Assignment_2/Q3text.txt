@@ -1,0 +1,64 @@
+Harsh: 
+Paras, 1
+Chandu, 1
+Aish, 0
+Aditya, 0
+Hridyansh, 0
+Shreyas, 0
+Vansh, 1
+Paras:
+Harsh, 1 
+Chandu, 0
+Aish, 1
+Aditya, 0
+Hridyansh, 1
+Shreyas, 0
+Vansh, 0
+Chandu:
+Harsh, 0
+Paras, 1 
+Aish, 0 
+Aditya, 1
+Hridyansh, 1
+Shreyas, 0
+Vansh, 1
+Aish:
+Harsh, 1
+Paras, 1
+Chandu, 0
+Aditya, 1
+Hridyansh, 1
+Shreyas, 0
+Vansh, 1
+Aditya: 
+Harsh, 0
+Paras, 0
+Chandu, 0
+Aish, 1
+Hridyansh, 1
+Shreyas, 1
+Vansh, 0
+Hridyansh: 
+Harsh, 0
+Paras, 1
+Chandu, 0
+Aish, 0
+Aditya, 1
+Shreyas, 0
+Vansh, 1
+Shreyas:
+Harsh, 1
+Paras, 1
+Chandu, 0
+Aish, 0
+Aditya, 1
+Hridyansh, 0
+Vansh, 0
+Vansh: 
+Harsh, 0
+Paras, 0
+Chandu, 0
+Aish, 1
+Aditya, 1
+Hridyansh, 0
+Shreyas, 1

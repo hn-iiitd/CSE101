@@ -1,0 +1,26 @@
+Advantages of using OO
+1.It allows us to use the stored data again at any time in the program.
+2.Allows us to create instances for different courses, by just providing the required details.
+
+Advantages of using Dictionaries
+1.Faster performance for grading and searching.
+2. It allows to store key-value pairs, which makes it easy to keep track of occurance of values.
+
+Disadvantage of using OO
+1.Slow data processing.
+2.It takes a lot of time to apply oop concepts as it involves building everything,which makes the code longer.
+
+Disadvantage of using dictionaries
+1.Sorting dictionaries w.r.t values or keys is a long process.
+2.Storing multiple values for a single key is a long task.
+
+Performance comparison for grading operation.
+1. N: 1000
+2. Time by OO: 5.558948755264282
+3. Time by dictionary:4.558099746704102
+4. Dictionary is faster; fraction of time Dictionary took is: 1.219575933871
+Performance comparison for search operation.
+1. N: 59 (in file of 1000 students)
+2. Time by OO: 333.30243277549744
+3. Time by dictionary: 300.1404404640198
+4. Dictionary is faster; fraction of time Dictionary took is: 1.1104404640198
